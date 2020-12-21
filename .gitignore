@@ -7,3 +7,8 @@
 saved_discriminator.net
 saved_model.net
 !.gitignore
+
+*.pth
+
+code/pytorch/__pycache__/
+code/runs/
